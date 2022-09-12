@@ -1,7 +1,4 @@
 here you go
-<<<<<<< HEAD
 new
 lots
-=======
 new2
->>>>>>> 8acdfe1d4ad99729df64821422fbffff3a72b0ae
